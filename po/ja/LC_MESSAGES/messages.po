@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgid "language"
+msgstr "日本語"
+
+msgid "page title"
+msgstr "クライアント"
+
+msgid "send label"
+msgstr "メールを送信する"
+
+msgid "to label"
+msgstr "宛先:"
+
+msgid "subject label"
+msgstr "件名:"
+
+msgid "delete label"
+msgstr "削除する"
+
+msgid "file browse label"
+msgstr "ファイル"
+
+msgid "filename header" 
+msgstr "ファイル"
+
+msgid "size header"
+msgstr "サイズ"
+
+msgid "path header"
+msgstr "パス"
+
+msgid "zip archive menuitem" 
+msgstr "アーカイブを作成する"
+
+msgid "delete menuitem"
+msgstr "削除する"
+
+msgid "paste menuitem"
+msgstr "貼り付け"
+
+msgid "select all menuitem"
+msgstr "すべて選択"
+
+msgid "files submit info"
+msgstr "=合計："
+
+msgid "file dialog title"
+msgstr "クライアント"
+
+msgid "file dialog location"
+msgstr "フォルダ/ファイル"
+
+msgid "file dialog up folder"
+msgstr "1つ上の階層へ移動"
+
+msgid "file dialog new folder"
+msgstr "新しいフォルダを作成"
+
+msgid "file dialog view icons"
+msgstr "一覧"
+
+msgid "file dialog view details"
+msgstr "詳細"
+
+msgid "file dialog details name"
+msgstr "名前"
+
+msgid "file dialog details size"
+msgstr "サイズ"
+
+msgid "file dialog details type"
+msgstr "種類"
+
+msgid "file dialog details date"
+msgstr "更新日"
+
+msgid "file dialog details attributes"
+msgstr "属性"
+
+msgid "file dialog filename label"
+msgstr "ファイル名:"
+
+msgid "file dialog type of label"
+msgstr "ファイルの種類:"
+
+msgid "file dialog open"
+msgstr "選択"
+
+msgid "file open tip"
+msgstr "選択されたファイルを追加"
+
+msgid "file dialog cancel"
+msgstr "キャンセル"
+
+msgid "file cancel tip"
+msgstr "ファイルの選択ダイアログを中断する"
+
+msgid "file dialog accept all"
+msgstr "すべてのファイル"
+
+msgid "server error"
+msgstr "サーバエラーが発生しました"
+
+msgid "login error"
+msgstr " のファイルのアップローダを使用するには、ログインしている必要があります。"
+
+msgid "login failure"
+msgstr "認証に失敗しました"
+
+msgid "emailviewer info"
+msgstr "以下は、転送中にキャンセルされたメールの一覧です。"
+
+msgid "emailviewer resend button"
+msgstr "再送する"
+
+msgid "emailviewer delete button"
+msgstr "削除する"
+
+msgid "emailviewer close button"
+msgstr "閉じる"
+
+msgid "emailviewer recipient header"
+msgstr "宛先"
+
+msgid "emailviewer subject header"
+msgstr "件名"
+
+msgid "emailviewer date header"
+msgstr "日付"
+
+msgid "emailviewer title"	
+msgstr "未配信 E メール"
+
+msgid "confirm delete email"
+msgstr "選択された E メールを削除しますか？"
+
+msgid "confirm title"
+msgstr "確認ダイアログ"
+
+msgid "cancelled"
+msgstr "送信がキャンセルされました。\n処理を完了（または削除）するには\"一時停止のメール\"一覧から\"再送する\" を選択してください。"
+
+msgid "incompleted"
+msgstr "送信はネットワークエラーが発生したために失敗しました。\n処理を完了（または削除）するには\"一時停止のメール\"一覧から\"再送する\" を選択してください。"
+
+msgid "over attachment limit by"
+msgstr "添付ファイルのサイズが上限を超えています: "
+
+msgid "duplicate attachment name"
+msgstr "名前が重複したファイルは同時に添付できません。\n添付する前にファイル名を変更してください。"
+
+msgid "overwrite unsent email"
+msgstr "未送信メールはエディタに保管されています。再送する際に上書きされます。続行しますか？"
+
+msgid "missing attachments for resume"
+msgstr "一部の添付ファイルが見つかりません（再度ファイルを作成して追加してください）。 送信可能な E メールと添付ファイルをロードするには、[ はい ] を選択してください。"
+
+msgid "missing attachments"
+msgstr "添付ファイルが見つかりません: "
+
+msgid "found attachments"
+msgstr "添付ファイルが見つかりました: "
+
+msgid "exceeds disk space"
+msgstr "ディスクの空き容量を超えています。\n\"送信履歴\"から送信される添付ファイルのサイズを確認してください。"
+
+msgid "exceeds traffic width"
+msgstr "トラフィックの制限を超えています。\n\n\"送信履歴\"から送信される添付ファイルのサイズを確認してください。"
+
+msgid "traffic width override"
+msgstr "このメール送信はトラフィックの制限を超えるため処理できません。\n\nこのままメール送信を続行しますか？"
+
+msgid "empty removal"
+msgstr ": 空のファイルをアップロードから削除します"
+
+msgid "no changes during processing"
+msgstr "ファイルの添付を処理中です。削除を行う場合は処理が完了するまでお待ちください。もしくは、先にすべての処理をキャンセルしてください。"
+
+msgid "sending email"
+msgstr "メール送信中"

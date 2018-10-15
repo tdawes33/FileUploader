@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgid "language"
+msgstr "English"
+
+msgid "page title"
+msgstr "Client"
+
+msgid "send label"
+msgstr "send ..."
+
+msgid "to label"
+msgstr "to:"
+
+msgid "subject label"
+msgstr "subject:"
+
+msgid "delete label"
+msgstr "delete"
+
+msgid "file browse label"
+msgstr "file..."
+
+msgid "filename header" 
+msgstr "File Name"
+
+msgid "size header"
+msgstr "Size"
+
+msgid "path header"
+msgstr "Path"
+
+msgid "zip archive menuitem" 
+msgstr "Create an Archive"
+
+msgid "delete menuitem"
+msgstr "Delete"
+
+msgid "paste menuitem"
+msgstr "Paste"
+
+msgid "select all menuitem"
+msgstr "Select All"
+
+msgid "files submit info"
+msgstr "Total:"
+
+msgid "file dialog title"
+msgstr "Client"
+
+msgid "file dialog location"
+msgstr "Look In"
+
+msgid "file dialog up folder"
+msgstr "Up One Level"
+
+msgid "file dialog new folder"
+msgstr "Create New Folder"
+
+msgid "file dialog view icons"
+msgstr "List"
+
+msgid "file dialog view details"
+msgstr "Details"
+
+msgid "file dialog details name"
+msgstr "Name"
+
+msgid "file dialog details size"
+msgstr "Size"
+
+msgid "file dialog details type"
+msgstr "Type"
+
+msgid "file dialog details date"
+msgstr "Date Modified"
+
+msgid "file dialog details attributes"
+msgstr "Attributes"
+
+msgid "file dialog filename label"
+msgstr "File Name:"
+
+msgid "file dialog type of label"
+msgstr "Files of Type:"
+
+msgid "file dialog open"
+msgstr "Accept"
+
+msgid "file open tip"
+msgstr "Add selected file"
+
+msgid "file dialog cancel"
+msgstr "Cancel"
+
+msgid "file cancel tip"
+msgstr "Abort file chooser dialog"
+
+msgid "file dialog accept all"
+msgstr "All Files"
+
+msgid "server error"
+msgstr "A server error has occurred."
+
+msgid "login error"
+msgstr "You must be logged in to use the File Uploader"
+
+msgid "login failure"
+msgstr "Authentication failed"
+
+msgid "emailviewer info"
+msgstr "The following list shows the mails that had been cancelled while they were transferred."
+
+msgid "emailviewer resend button"
+msgstr "Resume"
+
+msgid "emailviewer delete button"
+msgstr "Delete"
+
+msgid "emailviewer close button"
+msgstr "Close"
+
+msgid "emailviewer recipient header"
+msgstr "To"
+
+msgid "emailviewer subject header"
+msgstr "Subject"
+
+msgid "emailviewer date header"
+msgstr "Date"
+
+msgid "emailviewer title"	
+msgstr "Incomplete Mail"
+
+msgid "confirm delete email"
+msgstr "Delete selected email?"
+
+msgid "confirm title"
+msgstr "Confirm Dialog"
+
+msgid "cancelled"
+msgstr "Sending has been cancelled\nIn order to complete the transaction (or delete it), select from \"Paused Emails\"->\"Resume\"."
+
+msgid "incompleted"
+msgstr "Sending has failed due to a network error.\nIn order to complete the transaction (or delete it), select from \"Paused Emails\"->\"Resume\"."
+
+msgid "over attachment limit by"
+msgstr "Attachment limit exceeded by: "
+
+msgid "duplicate attachment name"
+msgstr "Duplicate file names are not allowed in attachments.\nPlease rename duplicates before adding."
+
+msgid "overwrite unsent email"
+msgstr "An unsent email is in the editor, resuming will overwrite. Continue?"
+
+msgid "missing attachments for resume"
+msgstr "Some attachments are missing (regenerate files and retry). Select Yes to load available email+attachments as NEW."
+
+msgid "missing attachments"
+msgstr "Missing attachment files: "
+
+msgid "found attachments"
+msgstr "Found attachment files: "
+
+msgid "exceeds disk space"
+msgstr "Disk space is exceeded.\n\nPlease check the attached file size which can be sent from \"Sent History\""
+
+msgid "exceeds traffic width"
+msgstr "Traffic Limits is exceeded.\n\nPlease check the attached file size which can be sent from \"Sent History\""
+
+msgid "traffic width override"
+msgstr "Sending of this mail exceeds Traffic Limits.\n\nDo you wish to continue sending?"
+
+msgid "empty removal"
+msgstr ": empty file removed from upload"
+
+msgid "no changes during processing"
+msgstr "Processing the file list, please wait before removing. Or, cancel all processing first."
+
+msgid "sending email"
+msgstr "Sending Email"
